@@ -39,7 +39,7 @@
                 }
 
             }
-            Console.WriteLine($"Det tog {score}st gissningar att lista ut mitt nummer!");
+            Console.WriteLine($"{hemligtnummer} var svaret Det tog {score}st gissningar att lista ut mitt nummer!");
            
 
         }
